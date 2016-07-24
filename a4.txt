@@ -1,0 +1,21 @@
+Read the section on "Nearest neighbor and the curse of dimensionality" on this page in the scikit-learn documentation:
+
+http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html (Links to an external site.)
+
+Copy the code into a file so that you can reproduce what happened in the tutorial.
+
+Now do the same thing with the optical digit recognition data set that is also built into scikit-learn. To get this, you'll want to use load_digits instead of load_iris. Since this dataset is larger, save 100 items instead of 10 for the testing set.
+
+Write a function that tells you what fraction of the testing examples the k-nearest-neighbor classifier got right (e.g., 0.9).
+
+Your program should repeat the experiment for each value of k from 1 through 50 and print each resulting accuracy number.
+
+Hint: when you build you classifier, you'll want a line like knn = KNeighborsClassifier(n_neighbors=k).
+
+Include, in a comment at the end of your program, your assessment of how the results are affected by k. For example, you might write something like on of the following:
+
+"Any value of k from 5 through 8 appears to work about equally well, but performance gradually decreases outside this range."
+
+"The best value for k is 12. Anything else performs much worse."
+
+Hand in your Python program, including this comment. 
