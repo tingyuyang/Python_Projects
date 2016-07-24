@@ -5,6 +5,8 @@ to do:
 http://rosalind.info/problems/prot/?class=285
 * a# will be the specification of the project
 * a#_work will be the python coding file for the project
+* files labeled with **bio** are the files solving biology problem on Rosalind
+* Rosalind is a platform for learning bioinformatics and programming through problem solving
 
 (cheatsheet of styling in README)
 * https://maxiang.io/
