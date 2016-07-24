@@ -11,5 +11,5 @@ http://rosalind.info/problems/prot/?class=285
 
 > 
  (Cheatsheet of styling in README)
-* https://maxiang.io/
-* http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819
+ 1.  https://maxiang.io/
+ * http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819
