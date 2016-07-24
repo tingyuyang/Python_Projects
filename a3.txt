@@ -1,0 +1,30 @@
+Work in your bioinformatics pairs for this one.
+
+From the UC Irvine Machine Learning Repository, get the Abalone data:
+
+http://archive.ics.uci.edu/ml/datasets/Abalone (Links to an external site.)
+
+Specifically, get abalone.data from the data folder and save it as abalone.data.txt:
+
+http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/ (Links to an external site.)
+
+(You'll want to look at abalone.names as well, as it explains what the various fields mean.)
+
+Write a Python program that extracts and prints the information below, in the format given, but with the XXXXs replaced with the appropriate numbers:
+
+Mean number of rings: XXXX
+Median number of rings: XXXX
+Standard deviation of number of rings: XXXX
+Correlation between length and rings: XXXX
+P[male]: XXXX
+P[large]: XXXX
+P[male and large]: XXXX
+P[male or large]: XXXX
+P[male | large]: XXXX
+P[large | male]: XXXX
+
+Note that "large" is defined as "having greater than the mean length".
+
+You are encouraged to borrow heavily from the code in the book to do this. This is not an assignment in reinventing the wheel, but in applying existing tools to solve a new problem.
+
+Turn in your Python program.
