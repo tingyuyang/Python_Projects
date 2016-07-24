@@ -9,3 +9,4 @@ http://rosalind.info/problems/dna/?class=285
 
 (cheatsheet of styling in README)
 * https://maxiang.io/
+* http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819
