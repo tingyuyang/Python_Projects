@@ -1,3 +1,7 @@
+(my grade of this assignment is 12/20, need further corrections)
+
+
+
 Work in your bioinformatics pairs for this one.
 
 From the UC Irvine Machine Learning Repository, get the Abalone data:
