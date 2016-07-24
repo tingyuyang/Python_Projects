@@ -10,9 +10,9 @@ Given a DNA string tt corresponding to a coding strand, its transcribed RNA stri
 
 * Return: The transcribed RNA string of tt.
 
-# Sample Dataset
+## Sample Dataset
 
 GATGGAACTTGACTACGTAAATT
-# Sample Output
+## Sample Output
 
 GAUGGAACUUGACUACGUAAAUU
