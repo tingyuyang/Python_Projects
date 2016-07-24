@@ -1,4 +1,4 @@
-#A Rapid Introduction to Molecular Biologyclick to expand
+#Counting DNA Nucleotides
 
 ##Problem
 
