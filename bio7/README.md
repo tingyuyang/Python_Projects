@@ -14,6 +14,8 @@ The location of a substring s[j:k]s[j:k] is its beginning position jj; note that
 * Return: All locations of tt as a substring of ss.
 ## Sample Dataset
 GATATATGCATATACTT
+
+
 ATAT
 ## Sample Output
 2 4 10
