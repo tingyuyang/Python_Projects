@@ -7,18 +7,18 @@ For a collection of strings and a positive integer kk, the overlap graph for the
 * Return： The adjacency list corresponding to O3. You may return edges in any order.
 
 ## Sample Dataset
->Rosalind_0498
-AAATAAA
->Rosalind_2391
-AAATTTT
->Rosalind_2323
-TTTTCCC
->Rosalind_0442
-AAATCCC
->Rosalind_5013
-GGGTGGG
+* >Rosalind_0498
+* AAATAAA
+* >Rosalind_2391
+* AAATTTT
+* >Rosalind_2323
+* TTTTCCC
+* >Rosalind_0442
+* AAATCCC
+* >Rosalind_5013
+* GGGTGGG
 
 ## Sample Output
-Rosalind_0498 Rosalind_2391
-Rosalind_0498 Rosalind_0442
-Rosalind_2391 Rosalind_2323
+* Rosalind_0498 Rosalind_2391
+* Rosalind_0498 Rosalind_0442
+* Rosalind_2391 Rosalind_2323
