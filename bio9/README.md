@@ -5,6 +5,7 @@ A directed graph (or digraph) is a graph containing directed edges, each of whic
 For a collection of strings and a positive integer kk, the overlap graph for the strings is a directed graph OkOk in which each string is represented by a node, and string ss is connected to string tt with a directed edge when there is a length kk suffix of ss that matches a length kk prefix of tt, as long as s≠ts≠t; we demand s≠ts≠t to prevent directed loops in the overlap graph (although directed cycles may be present).
 * Given：A collection of DNA strings in FASTA format having total length at most 10 kbp.
 * Return： The adjacency list corresponding to O3. You may return edges in any order.
+
 ## Sample Dataset
 >Rosalind_0498
 AAATAAA
@@ -16,6 +17,7 @@ TTTTCCC
 AAATCCC
 >Rosalind_5013
 GGGTGGG
+
 ## Sample Output
 Rosalind_0498 Rosalind_2391
 Rosalind_0498 Rosalind_0442
